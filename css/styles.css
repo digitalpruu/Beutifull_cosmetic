@@ -16,7 +16,7 @@ html {
 .nav-container {
   width: 100%;
   height: auto;
-  background: rgba(250, 128, 114, 0.43);
+  background: rgba(137, 47, 37, 0.553);
 }
 .nav-container nav .logo-nav {
   display: flex;
@@ -127,7 +127,7 @@ main .catalogue img {
 }
 main .about-us {
   padding-top: 60px;
-  background-color: #38c8a8;
+  background-color: rgba(56, 200, 169, 0.5803921569);
 }
 main .about-us .about-us-text {
   text-align: center;
